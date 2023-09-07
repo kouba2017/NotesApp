@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+
+}
+
+.form-style{
+  background-color: rgb(139, 172, 162) ;
+  width: 400px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+input{
+border: solid;
+border-radius: 5px;
+height: 23px;
+}
+label{
+  font-size: large;
+}
